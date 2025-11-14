@@ -30,7 +30,7 @@ Onde **Pn** representa o número do projeto (P1, P2, P3, ... P8).
 ## 🧠 Lista de Projetos e Temáticas
 
 ### **P1 – Otimização de Despacho de Ambulâncias**
-Modelos e heurísticas para otimizar o envio de ambulâncias considerando distância, urgência e disponibilidade.
+Modelos e heurísticas para otimizar o envio de ambulâncias.
 
 ### **P2 – Risco de Ataque Cardíaco, Detecção de Estresse e Diabetes**
 Modelagem preditiva usando dados fisiológicos.
@@ -45,13 +45,13 @@ Modelos usando acelerômetro e giroscópio.
 Predição de escalas clínicas aplicadas à saúde de idosos.
 
 ### **P6 – Sistema de Monitoramento de Bem-Estar com PLN**
-Análise de textos e relatos para monitoramento emocional.
+Análise de relatos para monitoramento emocional.
 
 ### **P7 – Classificação de Atividades e Detecção de Inatividade Prolongada**
 Identificação de tarefas e estados de sedentarismo.
 
 ### **P8 – Plano de Ação para Detecção de Emergências Cardíacas**
-Pipeline completo para identificar emergências e propor respostas.
+Pipeline para identificar emergências e propor respostas.
 
 ---
 
