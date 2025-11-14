@@ -10,7 +10,8 @@
 ## 📘 Sobre o Repositório
 Este repositório reúne os projetos desenvolvidos para a disciplina do 6º semestre do curso de Ciência de Dados e Inteligência Artificial da PUC-SP, com foco na criação de soluções baseadas em wearables para o monitoramento contínuo da saúde de idosos, incluindo desde análise de risco clínico até detecção de emergências e predição de quedas.
 Dessa forma, nosso projeto propõe o desenvolvimento e implementação de dispositivos vestíveis capazes de monitorar sinais vitais em tempo real, detectar e prevenir situações de risco, além de armazenar e acompanhar dados clínicos relevantes.
-Com essa solução, buscamos antecipar eventos críticos, reduzir o número de internações e evitar complicações que possam levar a óbitos, promovendo um cuidado mais eficiente, preventivo e humanizado, focando em controle da saúde populacional.
+Com essa solução, buscamos antecipar eventos críticos, reduzir o número de internações e evitar complicações que possam levar a óbitos, promovendo um cuidado mais eficiente, preventivo e humanizado, focando em controle da saúde populacional, em um cenário em que o Brasil ganhou mais de 9 milhões de novos idosos nos últimos 10 anos.
+
 
 
 ---
