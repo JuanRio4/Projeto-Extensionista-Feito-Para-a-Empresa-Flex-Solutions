@@ -8,9 +8,7 @@
 ---
 
 ## 📘 Sobre o Repositório
-Este repositório reúne os projetos desenvolvidos para a disciplina do 6º semestre do curso de Ciência de Dados e Inteligência Artificial da PUC-SP, com foco na criação de soluções baseadas em wearables para o monitoramento contínuo da saúde de idosos.
-
-Cada projeto foi construído considerando aplicações reais e alinhadas às necessidades da empresa parceira Flex Solutions, incluindo desde análise de risco clínico até detecção de emergências e predição de quedas.
+Este repositório reúne os projetos desenvolvidos para a disciplina do 6º semestre do curso de Ciência de Dados e Inteligência Artificial da PUC-SP, com foco na criação de soluções baseadas em wearables para o monitoramento contínuo da saúde de idosos, incluindo desde análise de risco clínico até detecção de emergências e predição de quedas.
 
 ---
 
