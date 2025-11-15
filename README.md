@@ -91,7 +91,8 @@ Pipeline para identificar emergências e propor respostas.
 - scikit-fuzzy  
 - NetworkX  
 - Beautiful Soup (bs4)  
-- NLTK  
+- NLTK
+- PyTorch
 - Orange Data Mining
 
 ### **⚙️ Métodos e Funções (Auxiliares e de Otimização)**
