@@ -1,7 +1,7 @@
 # 🩺 Projeto de Wearables para Monitoramento da Saúde de Idosos  
 ### 6º Semestre – Ciência de Dados e Inteligência Artificial – PUC-SP  
 **Autores:** Bárbara Melo, Juan Rio, Leonardo Fila e  Rebecca Campos  
-**Github dos Autores:** @barbaramelloliveira, @JuanRio4, @becamparezzo, @LeonardoKoide e @becamparezzo
+**Github dos Autores:** @barbaramelloliveira, @JuanRio4, @LeonardoKoide e @becamparezzo
 **Empresa Parceira:** Flex Solutions
 
 ---
