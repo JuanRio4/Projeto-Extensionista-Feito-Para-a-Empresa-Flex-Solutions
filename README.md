@@ -84,6 +84,8 @@ Pipeline para identificar emergências e propor respostas.
 - Random Forest Regressor  
 - Gradient Boosting Regressor  
 - Regressão Linear
+- CN2 Rule Induction
+- SVM (Support Vector Machine)
 
 ### **🧩 Tecnologias Específicas**
 - TensorFlow / Keras  
