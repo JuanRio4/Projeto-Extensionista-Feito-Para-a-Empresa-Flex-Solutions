@@ -2,6 +2,7 @@
 ### 6º Semestre – Ciência de Dados e Inteligência Artificial – PUC-SP  
 **Autores:** Bárbara Melo, Juan Rio, Leonardo Fila e  Rebecca Campos  
 **Github dos Autores:** @barbaramelloliveira, @JuanRio4, @LeonardoKoide e @becamparezzo
+
 **Empresa Parceira:** Flex Solutions
 
 ---
