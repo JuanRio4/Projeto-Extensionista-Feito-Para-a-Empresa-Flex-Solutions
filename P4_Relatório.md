@@ -6,7 +6,7 @@
 
 ## Contexto e Objetivo
 
-Este relatório apresenta uma análise de viabilidade para a aplicação de **Inteligência Artificial (IA)** na detecção e previsão de quedas em idosos, utilizando dados de dispositivos **wearables**. O objetivo é recomendar uma base de dados e abordar a implementação de modelos de **Machine Learning** para uma empresa de automação em serviços de saúde.
+Este relatório apresenta uma análise de viabilidade para a aplicação de **Inteligência Artificial (IA)** na detecção e previsão de quedas em idosos, utilizando dados de dispositivos **wearables**. 
 
 ---
 
